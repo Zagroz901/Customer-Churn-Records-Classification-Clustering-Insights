@@ -47,3 +47,5 @@ This project highlights the effectiveness of machine learning models in predicti
 - [Ramírez Martínez, Erick David. "Churn detection on bank customers."]
 - [Charandabi, Sina E. "Prediction of Customer Churn in Banking Industry."]
 - [Hend Sayed, Manal A. Abdel-Fattah, Sherif Kholief "Predicting Potential Banking Customer Churn using Apache Spark ML and MLlib Packages: A Comparative Study."]
+## Kaglle code
+-  https://www.kaggle.com/code/zagroz901/ml-project-customer-churn-dataset
